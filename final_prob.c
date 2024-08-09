@@ -19,7 +19,7 @@ int  main(){
     float s;
     float X[100];
     float Y[100];
-    do{
+   
     system("cls");
     printf("Please enter the  number of events = ");
     scanf("%d",&n);
@@ -35,7 +35,7 @@ int  main(){
         scanf("%f",&Y[i]);
        
     }
-    
+     do{
     system("cls");
     printf("Please enter your choice \n1. sum of x \n2. sum of y\n3. sum of x^2 \n");
     printf("4. sum of y^2 \n5. sum of xy  \n6. standard deviation  of x\n");
