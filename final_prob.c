@@ -1,3 +1,6 @@
+/*
+This is my first practice project that I made in the first semester.
+*/
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
